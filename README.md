@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+Please watch the project demo using this loom link - https://www.loom.com/share/c4cd9bb8349d46e091d7238116a1019b?sid=13554429-e965-442b-9b3d-d78bd0d0d6ba 
 
 ## Notes
 
