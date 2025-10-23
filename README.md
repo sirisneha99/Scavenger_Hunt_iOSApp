@@ -1,8 +1,8 @@
-# Project 1 - Scavenger Hunt
+#  Scavenger Hunt
 
 Submitted by: Sneha Siri Nagabathula
 
-Scavenger Hunt is an app that allows you to choose photos from collections, map it and categorize into favorite categories
+Scavenger Hunt is an iOS app that allows you to choose photos from collections, map it and categorize into favorite categories
 
 Time spent: 1 hours spent in total
 
